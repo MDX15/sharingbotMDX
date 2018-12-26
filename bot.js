@@ -11,7 +11,7 @@ A7MD.on("guildMemberAdd", member => {
 لو سمحت ممكن تدخل سيرفرى
 يا رهيب 
 اتمني تستمتع بالسيرفر
-                               [ رابط السيرفر ] 
+                               [ https://discord.gg/WE7PcyB ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
